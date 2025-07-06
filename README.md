@@ -12,7 +12,7 @@ Aplikasi web sederhana untuk manajemen peminjaman buku secara digital. Cocok dig
 - Ulasan buku oleh user
 - Dashboard statistik sederhana
 
-[Link demo](datalazy.infinityfreeapp.com)
+[Link demo](https://datalazy.infinityfreeapp.com)
 
 ## Struktur Folder
 
